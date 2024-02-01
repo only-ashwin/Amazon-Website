@@ -4,4 +4,4 @@ This is an Amazon website clone build using pure HTML5 and CSS3
 * Clear and self-understandable code is written
 * IDE used is VS Code
 
-You can check out the website on : 
+You can check out the website on :  https://only-ashwin.github.io/Amazon-website-clone/
